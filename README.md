@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on ... **building my techstack**
 - 🌱 I’m currently learning ...  **Data Structures and Algorithm  and AWS**
-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... **Community Building**
 - 💬 Ask me about ... **AWS and Linux**
 - 📫 You can reach me at: ... **udnr26@gmail.com**
