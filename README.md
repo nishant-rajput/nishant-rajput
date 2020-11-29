@@ -2,8 +2,7 @@
 
 <h1>Hello! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
 <p>
-  I am <b>Nishant</b>, a software developer currently building a community at my college to encourage information sharing and increase technical awareness and to minimise misinformation. I believe in helping each other and work hand-in-hand to achieve results. I like to know more about current trends in technologies and particularly interested in clouds.
-  I believe in learning from others. 
+  I am <b>Nishant</b>, a software developer currently building a community at my college to encourage information sharing and increase technical awareness and to minimise misinformation. <br><br>I like to know more about current trends in technologies and particularly interested in clouds. I believe in learning from others.
   
   
 </p>
