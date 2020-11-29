@@ -25,7 +25,20 @@
 
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-rajput&layout=compact&hide=html" alt="rajat2502" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-rajput&layout=compact&hide=html" alt="nishant-rajput" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishant-rajput&show_icons=true" alt="rajat2502" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishant-rajput&show_icons=true" alt="nishant-rajput" /> </p>
 
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/rt_nishant
+[2]: https://www.linkedin.com/in/nishant-rajput/
