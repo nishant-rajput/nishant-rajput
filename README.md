@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning ...  **Data Structures and Algorithm  and AWS**
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... **Community Building**
-- 💬 Ask me about ... **AWS and Linux **
+- 💬 Ask me about ... **AWS and Linux**
 - 📫 You can reach me at: ... **udnr26@gmail.com**
 - 😄 Pronouns: ... **He/Him/His**
 - ⚡ Fun fact: ... **I am into BTS, anime and attending webinars**
@@ -25,8 +25,8 @@
 
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-rajput&layout=compact&hide=html" alt="nishant-rajput" /></p>
-
+<!--<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-rajput&layout=compact&hide=html" alt="nishant-rajput" /></p>
+-->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishant-rajput&show_icons=true" alt="nishant-rajput" /> </p>
 
 
