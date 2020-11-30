@@ -23,9 +23,9 @@
 
 
 
-<!--<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-rajput&layout=compact&hide=html" alt="nishant-rajput" /></p>
--->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishant-rajput&show_icons=true" alt="nishant-rajput" /> </p>
+<p align="#center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-rajput&layout=compact&hide=html" alt="nishant-rajput" /></p>
+
+<p align="#center"> <img src="https://github-readme-stats.vercel.app/api?username=nishant-rajput&show_icons=true" alt="nishant-rajput" /> </p>
 
 
 
