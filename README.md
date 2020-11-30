@@ -14,7 +14,7 @@
 - 💬 Ask me about ... **AWS and Linux**
 - 📫 You can reach me at: ... **udnr26@gmail.com**
 - 😄 Pronouns: ... **He/Him/His**
-- ⚡ Fun fact: ... **I am into BTS, anime and attending webinars**
+- ⚡ Fun fact: ... **I am into BTS, anime and reading books**
 
 
 
