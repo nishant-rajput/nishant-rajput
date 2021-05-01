@@ -2,7 +2,7 @@
 
 <h1>Hello! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
 <p>
-  I am <b>Nishant</b>, a software developer currently building a community at my college to encourage information sharing and increase technical awareness and to minimise misinformation. <br><br>I like to know more about current trends in technologies and particularly interested in clouds. I believe in learning from others.
+  I am <b>Nishant</b>, a software developer currently building a community at my college to encourage information sharing and increase technical awareness and to minimise misinformation. <br><br>I like to learn more about current trends in technologies and am particularly interested in AWS and Linux. I believe in learning from others.
   
   
 </p>
@@ -11,10 +11,10 @@
 - 🔭 I’m currently working on ... **building my techstack**
 - 🌱 I’m currently learning ...  **Data Structures and Algorithm  and AWS**
 - 🤔 I’m looking for help with ... **Community Building**
-- 💬 Ask me about ... **AWS and Linux**
-- 📫 You can reach me at: ... **udnr26@gmail.com**
+- 💬 Ask me about ... **Linux**
+- 📫 You can reach me at: ... **nishant_rajput@outlook.com**
 - 😄 Pronouns: ... **He/Him/His**
-- ⚡ Fun fact: ... **I am into BTS, anime and reading books**
+- ⚡ Fun fact: ... **I am an Otaku, love to cook and read books in my pastime**
 
 
 
