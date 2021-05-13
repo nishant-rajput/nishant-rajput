@@ -29,4 +29,4 @@
 
 
 
-<p align="center">You can find me on <a href="https://twitter.com/rt_nishant"><img src="http://i.imgur.com/wWzX9uB.png"></img></a>, or on <a href="https://www.linkedin.com/in/nishant-rajput/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"></img></a>.</p>
+<p align="center">You can find me on <a href="https://twitter.com/nishant_uwu"><img src="http://i.imgur.com/wWzX9uB.png"></img></a>, or on <a href="https://www.linkedin.com/in/nishant-rajput/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"></img></a>.</p>
