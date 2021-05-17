@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ...  **Data Structures and Algorithm  and AWS**
 - 🤔 I’m looking for help with ... **Community Building**
 - 💬 Ask me about ... **Linux**
-- 📫 You can reach me at: ... **nishant_rajput@outlook.com**
+- 📫 You can reach me at: ... **nishant.1133@gmail.com**
 - 😄 Pronouns: ... **He/Him/His**
 - ⚡ Fun fact: ... **I am an Otaku, love to cook and read books in my pastime**
 
