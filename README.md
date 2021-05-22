@@ -8,9 +8,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-rajput" alt="nishant-rajput" /> </p>
 
-- 🔭 I’m currently working on ... **building my techstack**
-- 🌱 I’m currently learning ...  **Data Structures and Algorithm  and AWS**
-- 🤔 I’m looking for help with ... **Community Building**
+- 🔭 I’m currently working on ... **building my techstack and problem solving skills**
+- 🌱 I’m currently learning ...  **React JS**
+- 🤔 I’m looking for help with ... **Personal Branding**
 - 💬 Ask me about ... **Linux**
 - 📫 You can reach me at: ... **nishant.1133@gmail.com**
 - 😄 Pronouns: ... **He/Him/His**
