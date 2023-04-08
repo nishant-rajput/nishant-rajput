@@ -10,9 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-rajput" alt="nishant-rajput" /> </p>
 
 - 🔭 I’m currently working on ... **building my techstack and improving problem solving skills**
-- 🌱 I’m currently learning ...  **Docker and React JS**
+- 🌱 I’m currently learning ...  **something**
 - 🤔 I’m looking for help with ... **DSA and Open Source**
 - 💬 Ask me about ... **Linux**
 - 📫 You can reach me at: ... **udnr26@gmail.com**
-- 😄 Pronouns: ... **He/Him/His**
 - ⚡ Fun fact: ... **I love anime, cooking and reading books in my pastime**
