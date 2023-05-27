@@ -7,7 +7,7 @@
 <br>Love to learn more about current trends in technologies and am particularly interested in AWS and Linux. Also believe in learning from others.
   
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-rajput" alt="nishant-rajput" /> </p>
+
 
 - 🔭 I’m currently working on ... **building my techstack and improving problem solving skills**
 - 🌱 I’m currently learning ...  **something**
