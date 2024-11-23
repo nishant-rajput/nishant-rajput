@@ -2,7 +2,7 @@
 
 <h1>Hello! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> </h1>
 <p>
-  I am <b>Nishant</b>, into Technical Operations by profession at Amazon, a content writer in side and currently figuring out stuff to try my hands at development.
+  I am <b>Nishant</b>, into Support Engineer by profession at Amazon, currently figuring out stuff to try my hands at development.
 <br>Really curious and swayed by culture carried by open and inclusive tech communities and also curious towards sharing things in public.
 <br>Love to learn more about current trends in technologies and am particularly interested in AWS and Linux. Also believe in learning from others.
   
